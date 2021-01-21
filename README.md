@@ -1,8 +1,11 @@
 # birthday-reminder-interface
 This is a simple responsive React application consisting of one page. It is a smallproject done after learning about the useState React hook.
 It contains some few css transitions and animations to make it eye catching.
-It makes use of the flex property ans some few media queries tomake it responsive
-Link to the site is as follows
+It makes use of the flex property ans some few media queries tomake it responsive.
+
+#If you want to install the files on your computer then download the files then open command terminal in VSCode and type npm install.This installs all the necessary dependencies.
+
+#Link to the site is as follows
 https://birthday-reminder-interface.netlify.app/
 
 View on the laptop
